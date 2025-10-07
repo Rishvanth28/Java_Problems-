@@ -1,5 +1,5 @@
 import java.util.List;
-class Solution {
+class countMatches {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue){
         int index=0;
         int count=0;
